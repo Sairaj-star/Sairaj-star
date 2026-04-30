@@ -22,7 +22,7 @@ A web app designed to help users stay focused and organized.
 ### 🔹 Mini Game Hub
 
 A collection of browser-based mini games built using core web technologies.
-👉 [https://github.com/Sairaj-star/mini-game-hub](https://github.com/Sairaj-star/mini-game-hub)
+👉 [https://github.com/Sairaj-star/mini-game-hub](https://sairaj-star.github.io/mini-game-hub/)
 
 ### 🔹 BMI Calculator
 
