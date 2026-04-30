@@ -27,7 +27,7 @@ A collection of browser-based mini games built using core web technologies.
 ### 🔹 BMI Calculator
 
 A simple and effective tool to calculate Body Mass Index.
-👉 [[https://github.com/Sairaj-star/BMI_Calculator](https://github.com/Sairaj-star/BMI_Calculator)](https://sairaj-star.github.io/BMI_Calculator/)
+👉 [[https://github.com/Sairaj-star/BMI_Calculator](https://sairaj-star.github.io/BMI_Calculator/)
 
 ---
 
